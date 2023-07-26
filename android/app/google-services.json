@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1050508303505",
+    "project_id": "furnish-fd136",
+    "storage_bucket": "furnish-fd136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050508303505:android:d1364436974294c7967330",
+        "android_client_info": {
+          "package_name": "com.example.flutter_office_furniture_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050508303505-nd7rudpu2tf5psqlvk9c74gmgq5qvj4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_office_furniture_store_app",
+            "certificate_hash": "d0b76dd419e272e045f599e3aa6bd1fd724d4865"
+          }
+        },
+        {
+          "client_id": "1050508303505-ch3hai8jceoer6s0ttao1231e2952rnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ZBKMS9nj0YjDyyv8qzbg0HqGvXv1kgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050508303505-ch3hai8jceoer6s0ttao1231e2952rnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
